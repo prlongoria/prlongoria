@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  Metodología Agile.
  Hacemos los proyectos tocando diversas herramientas como Jira, git Kraken, Trello, Figma.
  Trabajamos en equipos, a la vez que hacemos ejercicios individualmente para aprender a entender la lógica de la programación.
- Nos enseñan en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior.
+ Nos enseñan en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en un Hackaton a nivel nacional, fueron tres días muy intensos y de mucho aprendizaje.
  Este mes de agosto de 2022 empezaremos ya con Java y realizaremos un proyecto final en equipo, además de otro individual en el que debemos utilizar Vue y Java.
  
  Hablo, leo y escribo bien inglés y entiendo un poco de francés.
