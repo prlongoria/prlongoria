@@ -34,3 +34,5 @@ Here are some ideas to get you started:
  Soy una persona muy curiosa e inquieta, por eso me encanta la programación, es infinita, en constante avance y con multitud de posibilidades.
  Me gusta mucho meditar y hacer yoga y artes marciales, me ayudan a mantener la cabeza fría y centrada, además de la calma en momentos de tensión. Me ayuda a ver las cosas con claridad y encontrar soluciones rápidas y efectivas.
  
+ https://www.linkedin.com/in/patricia-rodriguez
+ 
