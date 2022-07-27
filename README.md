@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1">
 
  Soy Patricia, trabajadora, organizada, positiva, amante del código, aprendiz de la vida...y fiel creyente del trabajo en equipo ("Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo")
- Actualmente estoy estudiando fullstack en el Bootcamp de Factoría F5, aprendiendo desde cero, y cada día más enganchada a este maravilloso mundillo de la programación.
+ Actualmente estoy participando activamente en un Bootcamp fullstack organizado por Factoría F5, aprendiendo desde cero, y cada día más enganchada a este maravilloso mundillo de la programación.
  Hasta el momento hemos aprendido a trabajar con HTML, CSS, Bootstrap, Javascript, Vue3, PHP y Laravel. También estamos trabajando con MySQL.
  Metodología Agile.
  Hacemos los proyectos tocando diversas herramientas como Jira, git Kraken, Trello, Figma.
