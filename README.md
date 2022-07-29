@@ -36,5 +36,5 @@ Here are some ideas to get you started:
  Me gusta mucho meditar y hacer yoga y artes marciales, me ayudan a mantener la cabeza fría y centrada, además de la calma en momentos de tensión. Me ayuda a ver las cosas con claridad y encontrar soluciones rápidas y efectivas.
 
  
- https://www.linkedin.com/in/patricia-rodr%C3%ADguez-2911b1240/
+ https://www.linkedin.com/in/patricia-rodr%C3%ADguez-2911b1240/        <div align="right"><img src="https://user-images.githubusercontent.com/104829537/181853185-32071a8e-8549-4316-bea7-1a0748cbe97b.png"></div>
  
