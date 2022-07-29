@@ -1,4 +1,4 @@
-### Hello There!!
+<h1 align="center">Hello There!!</h1>
 
 <!--
 **prlongoria/prlongoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+<div><h3 font-weight="bold" align="right">"Cambia tus pensamientos y cambiarás tu mundo"</h3></div>
+<div align="left"><h3 font-weight="bold">"Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo"</h3></div>
+<div align="center"><img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1"></div>
 
-
-<img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1">
-
- Soy Patricia, trabajadora, organizada, positiva, amante del código, aprendiz de la vida...y fiel creyente del trabajo en equipo ("Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo")
+ Soy Patricia, trabajadora, organizada, positiva, amante del código, aprendiz de la vida...y fiel creyente del trabajo en equipo.
+ 
  Actualmente estoy participando activamente en un Bootcamp fullstack organizado por Factoría F5, aprendiendo desde cero, y cada día más enganchada a este maravilloso mundillo de la programación.
  Hasta el momento hemos aprendido a trabajar con HTML, CSS, Bootstrap, Javascript, Vue3, PHP y Laravel. También estamos trabajando con MySQL.
  Metodología Agile.
