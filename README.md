@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  
 <div>
  <img src="https://img2.freepng.es/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" height="30" width="30" >
- https://www.linkedin.com/in/patricia-rodr%C3%ADguez-2911b1240/"
+ https://www.linkedin.com/in/patricia-rodr%C3%ADguez-2911b1240/ 
 </div>
 <br>
 <br>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img src="https://th.bing.com/th/id/R.90e035baa6ad7216b6accd29ba5268cf?rik=DrqHcZwHB22nmg&riu=http%3a%2f%2fasieratienza.com%2fimages%2fjs.png&ehk=pUJFbIrez8mBppA0B%2bJb%2fYuJafauFk9%2fWc%2b824tuVLA%3d&risl=&pid=ImgRaw&r=0" height="45" width="65">
 <img src="https://25st4y48fagw1panvd24jq2y-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/php-square.png" height="45" width="55">
 <img src="https://th.bing.com/th/id/OIP.qL4S_en8qikR8OyWFqIvhAHaEh?pid=ImgDet&rs=1" height="45" width="55">
- <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height="45" width="65">
+ <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height="55" width="75">
  <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png"  height="45" width="55">
 </div>
 <div align="right"><img src="https://user-images.githubusercontent.com/104829537/181853185-32071a8e-8549-4316-bea7-1a0748cbe97b.png" height="78" width="78"></div>
