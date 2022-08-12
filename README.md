@@ -51,5 +51,7 @@ Here are some ideas to get you started:
  <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height="55" width="75">
  <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png"  height="45" width="55">
 </div>
-<div align="right"><img src="https://user-images.githubusercontent.com/104829537/181853185-32071a8e-8549-4316-bea7-1a0748cbe97b.png" height="78" width="78"></div>
+
+<div align="right"><h3 align="center" font-weight="bold">"Con paciencia, esfuerzo y determinación, llegarás tan lejos como te propongas"</h3><img src="https://user-images.githubusercontent.com/104829537/181853185-32071a8e-8549-4316-bea7-1a0748cbe97b.png" height="78" width="78"></div>
+
  
