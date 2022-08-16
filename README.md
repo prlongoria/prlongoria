@@ -68,7 +68,7 @@ Here are some ideas to get you started:
  <img src="https://th.bing.com/th/id/R.467c82e267a52d0698dc64a808d28e9c?rik=S0VNwAoZ0y95qA&pid=ImgRaw&r=0"  height="45" width="55">
  <img src="https://th.bing.com/th/id/OIP.HdIm8ibJatTKLj5ozFHlhgHaHa?pid=ImgDet&rs=1"  height="45" width="45">
  <img src="https://th.bing.com/th/id/OIP.R94MOI9qTg0gg52-2NLFMQHaGA?pid=ImgDet&rs=1"  height="45" width="50">
- <img src="https://www.sistemaimpulsa.com/blog/wp-content/uploads/2020/02/incrementar-tus-ingresos-con-Canva.png"  height="45" width="50">
+ <img src="https://www.sistemaimpulsa.com/blog/wp-content/uploads/2020/02/incrementar-tus-ingresos-con-Canva.png"  height="45" width="80">
  <img src="https://daffyta.github.io/assets/img/icono/git.png"  height="45" width="50">
 </div>
 
