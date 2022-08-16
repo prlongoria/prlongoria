@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div align="center">
-<img src="https://1.bp.blogspot.com/-Bwk9Mf7uDlk/UVaRMKrHSZI/AAAAAAAACUk/EqNH5_Lmveo/s400/HTML5.jpg" height="45" width="65"> 
-<img src="https://th.bing.com/th/id/OIP.wpwyCVtpdqa1cjoY0APj4wAAAA?pid=ImgDet&w=287&h=143&rs=1" height="45" width="85">
+<img src="https://1.bp.blogspot.com/-Bwk9Mf7uDlk/UVaRMKrHSZI/AAAAAAAACUk/EqNH5_Lmveo/s400/HTML5.jpg" height="45" width="75"> 
+<img src="https://th.bing.com/th/id/OIP.wpwyCVtpdqa1cjoY0APj4wAAAA?pid=ImgDet&w=287&h=143&rs=1" height="45" width="95">
 <img src="https://th.bing.com/th/id/R.90e035baa6ad7216b6accd29ba5268cf?rik=DrqHcZwHB22nmg&riu=http%3a%2f%2fasieratienza.com%2fimages%2fjs.png&ehk=pUJFbIrez8mBppA0B%2bJb%2fYuJafauFk9%2fWc%2b824tuVLA%3d&risl=&pid=ImgRaw&r=0" height="45" width="65">
-<img src="https://25st4y48fagw1panvd24jq2y-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/php-square.png" height="45" width="65">
-<img src="https://th.bing.com/th/id/OIP.qL4S_en8qikR8OyWFqIvhAHaEh?pid=ImgDet&rs=1" height="45" width="65">
+<img src="https://25st4y48fagw1panvd24jq2y-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/php-square.png" height="60" width="75">
+<img src="https://th.bing.com/th/id/OIP.qL4S_en8qikR8OyWFqIvhAHaEh?pid=ImgDet&rs=1" height="45" width="85">
  <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height="55" width="85">
  <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png"  height="45" width="55">
  <img src= "https://www.revomed.co.th/wp-content/uploads/2021/01/Figma-e1611285920705.jpg"  height="45" width="38">
@@ -70,6 +70,8 @@ Here are some ideas to get you started:
  <img src="https://th.bing.com/th/id/OIP.R94MOI9qTg0gg52-2NLFMQHaGA?pid=ImgDet&rs=1"  height="45" width="50">
  <img src="https://www.sistemaimpulsa.com/blog/wp-content/uploads/2020/02/incrementar-tus-ingresos-con-Canva.png"  height="45" width="80">
  <img src="https://daffyta.github.io/assets/img/icono/git.png"  height="45" width="50">
+ <img src="https://th.bing.com/th/id/OIP.4ew80M_QaQTO1CXhSGtBCAHaHa?pid=ImgDet&w=520&h=520&rs=1"  height="40" width="40">
+ 
 </div>
 
 <div align="right"><h3 align="center" font-weight="bold">"Con paciencia, esfuerzo y determinación, llegarás tan lejos como te propongas"</h3><img src="https://user-images.githubusercontent.com/104829537/181853185-32071a8e-8549-4316-bea7-1a0748cbe97b.png" height="78" width="78"></div>
