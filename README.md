@@ -24,7 +24,9 @@ Here are some ideas to get you started:
  
  Actualmente estoy participando activamente en un Bootcamp fullstack de 850 horas, organizado por Factoría F5, aprendiendo diariamente muchísmo, y cada día más enganchada a este maravilloso mundillo de la programación.
  
- Hasta el momento hemos manejado tecnologías como HTML, CSS, Bootstrap, Javascript, NodeJS, Vue3, PHP, Laravel y Java. También estamos trabajando con MySQL. UX/UI, OOP, MVC.
+ Hasta el momento hemos manejado tecnologías como HTML, CSS, Bootstrap, Javascript, NodeJS, Vue3, PHP, Laravel y Java. También estamos trabajando con MySQL. 
+ 
+ UX/UI, OOP, MVC.
  
  Metodología Agile, Scrum, Clean Code, Refactoring. 
  
