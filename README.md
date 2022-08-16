@@ -22,15 +22,23 @@ Here are some ideas to get you started:
 
  Soy Patricia, trabajadora, organizada, positiva, amante del código, aprendiz de la vida... y fiel creyente del trabajo en equipo.
  
- Actualmente estoy participando activamente en un Bootcamp fullstack organizado por Factoría F5, aprendiendo desde cero, y cada día más enganchada a este maravilloso mundillo de la programación.
- Hasta el momento hemos aprendido a trabajar con HTML, CSS, Bootstrap, Javascript, Vue3, PHP y Laravel. También estamos trabajando con MySQL.
- Metodología Agile.
- Hacemos los proyectos tocando diversas herramientas como Jira, git Kraken, Figma, Canva.
- Trabajamos en equipos, a la vez que hacemos ejercicios individualmente para aprender a entender la lógica de la programación.
- Nos enseñan en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en un Hackaton a nivel nacional, fueron tres días muy intensos y de mucho aprendizaje, sobre todo en lo que a soft skills se refiere.
- Este mes de agosto de 2022 empezaremos ya con Java y realizaremos un proyecto final en equipo, además de otro individual en el que debemos utilizar Vue y Java.
+ Actualmente estoy participando activamente en un Bootcamp fullstack de 850 horas, organizado por Factoría F5, aprendiendo diariamente muchísmo, y cada día más enganchada a este maravilloso mundillo de la programación.
  
- Hablo, leo y escribo bien inglés y entiendo un poco de francés.
+ Hasta el momento hemos manejado tecnologías como HTML, CSS, Bootstrap, Javascript, NodeJS, Vue3, PHP, Laravel y Java. También estamos trabajando con MySQL. UX/UI, OOP, MVC.
+ 
+ Metodología Agile, Scrum, Clean Code, Refactoring. 
+ 
+ Hacemos los proyectos con diversas plataformas como Jira, git Kraken, Trello, Figma, Canva.
+ 
+ Trabajamos en equipos, a la vez que hacemos ejercicios individualmente para aprender a entender la lógica de la programación.
+ 
+ Trabajamos en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en un Hackaton a nivel nacional, fueron tres días muy intensos y de mucho aprendizaje, sobre todo en lo que a soft skills se refiere.
+ 
+ Este mes de agosto de 2022 hemos empezado ya con un proyecto en Java y realizaremos un proyecto final en equipo, además, con este mismo stack, trabajaré paralelamente en mi proyecto personal en el que desarrollaré el front con Vue3.
+ 
+ Realizamos proyectos reales adquiriendo así experiencia en este ámbito.
+ 
+  Algo a destacar sobre mí es el manejo de idiomas, hablo, leo y escribo inglés con buen nivel, y entiendo un poco de francés.
  
  Soy una persona muy curiosa e inquieta, por eso me encanta la programación, es infinita, en constante avance y con multitud de posibilidades.
  Me gusta mucho meditar y hacer yoga y kung fu, me ayudan a mantener la cabeza fría y centrada, además de la calma en momentos de tensión. Me ayuda a ver las cosas con claridad y encontrar soluciones rápidas y efectivas.
