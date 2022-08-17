@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="left"><h3 font-weight="bold">"Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo"</h3></div>
 <div align="center"><img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1"></div>
 
- Hola, soy Patricia. Actualmente estoy participando activamente en un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, y adquiriendo un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodología Agile. 
+ Hola, soy Patricia. Actualmente estoy participando activamente en un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, y adquiriendo un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodologías Ágiles. 
  El rol con el que más me identifico, es el de una persona trabajadora, organizada, positiva, y gran amante del código.
  
  Las enseñanzas del Bootcamp se han dividido en dos partes: frontend y backend. En el front hemos manejado HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, estamos haciendo proyectos con PHP y Java, en Laravel y Springboot. También manejamos MySQL. 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  Trabajamos en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en una Hackaton a nivel nacional, lo cual fue un proceso muy intenso que pude aprovechar para reforzar conceptos vistos en este Bootcamp.
  
- Algo a destacar sobre mí es el manejo de idiomas, hablo, leo y escribo inglés con buen nivel, y me defiendo con francés.
+ Algo a destacar sobre mí es el manejo de idiomas, hablo, leo y escribo inglés con buen nivel, y me defiendo con el francés.
  
  Soy una persona muy curiosa e inquieta, por eso me encanta la programación, es infinita, en constante avance y con multitud de posibilidades.
  Me gusta mucho meditar y hacer yoga y kung fu, me ayudan a mantener la cabeza fría y centrada, además de la calma en momentos de tensión. Me ayuda a ver las cosas con claridad y encontrar soluciones rápidas y efectivas.
