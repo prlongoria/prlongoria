@@ -20,31 +20,19 @@ Here are some ideas to get you started:
 <div align="left"><h3 font-weight="bold">"Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo"</h3></div>
 <div align="center"><img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1"></div>
 
- Soy Patricia, trabajadora, organizada, positiva, amante del código, aprendiz de la vida... y fiel creyente del trabajo en equipo.
+ Hola, soy Patricia. Actualmente estoy participando activamente en un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, y adquiriendo un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodología Agile. 
+ El rol con el que más me identifico, es el de una persona trabajadora, organizada, positiva, y gran amante del código.
  
- Actualmente estoy participando activamente en un Bootcamp fullstack de 850 horas, organizado por Factoría F5, aprendiendo diariamente muchísmo, y cada día más enganchada a este maravilloso mundillo de la programación.
+ Las enseñanzas del Bootcamp se han dividido en dos partes: frontend y backend. En el front hemos manejado HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, estamos haciendo proyectos con PHP y Java, en Laravel y Springboot. También manejamos MySQL. 
+ Hemos aprendido también Scrum, Clean Code y Refactoring. Y utilizamos plataformas como Jira, git Kraken, Trello, Canva y Figma.
+ También hacemos proyectos individuales, ahora mismo estoy realizando un proyecto personal con Vue en el front y Java en el back que desarrollo en paralelo a otro grupal de PHP-Laravel.
  
- Hasta el momento hemos manejado tecnologías como HTML, CSS, Bootstrap, Javascript, NodeJS, Vue3, PHP, Laravel y Java. También estamos trabajando con MySQL. 
+ Trabajamos en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en una Hackaton a nivel nacional, lo cual fue un proceso muy intenso que pude aprovechar para reforzar conceptos vistos en este Bootcamp.
  
- UX/UI, OOP, MVC.
- 
- Metodología Agile, Scrum, Clean Code, Refactoring. 
- 
- Hacemos los proyectos con diversas plataformas como Jira, git Kraken, Trello, Figma, Canva.
- 
- Trabajamos en equipos, a la vez que hacemos ejercicios individualmente para aprender a entender la lógica de la programación.
- 
- Trabajamos en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en un Hackaton a nivel nacional, fueron tres días muy intensos y de mucho aprendizaje, sobre todo en lo que a soft skills se refiere.
- 
- Este mes de agosto de 2022 hemos empezado ya con un proyecto en Java y realizaremos un proyecto final en equipo, además, con este mismo stack, trabajaré paralelamente en mi proyecto personal en el que desarrollaré el front con Vue3.
- 
- Realizamos proyectos reales adquiriendo así experiencia en este ámbito.
- 
-  Algo a destacar sobre mí es el manejo de idiomas, hablo, leo y escribo inglés con buen nivel, y entiendo un poco de francés.
+ Algo a destacar sobre mí es el manejo de idiomas, hablo, leo y escribo inglés con buen nivel, y me defiendo con francés.
  
  Soy una persona muy curiosa e inquieta, por eso me encanta la programación, es infinita, en constante avance y con multitud de posibilidades.
  Me gusta mucho meditar y hacer yoga y kung fu, me ayudan a mantener la cabeza fría y centrada, además de la calma en momentos de tensión. Me ayuda a ver las cosas con claridad y encontrar soluciones rápidas y efectivas.
-
  
 <div>
  <img src="https://img2.freepng.es/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" height="30" width="30" >
