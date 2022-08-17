@@ -42,25 +42,23 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 <img src="https://1.bp.blogspot.com/-Bwk9Mf7uDlk/UVaRMKrHSZI/AAAAAAAACUk/EqNH5_Lmveo/s400/HTML5.jpg" height="45" width="75"> 
-<img src="https://th.bing.com/th/id/OIP.wpwyCVtpdqa1cjoY0APj4wAAAA?pid=ImgDet&w=287&h=143&rs=1" height="45" width="95">
-<img src="https://th.bing.com/th/id/R.90e035baa6ad7216b6accd29ba5268cf?rik=DrqHcZwHB22nmg&riu=http%3a%2f%2fasieratienza.com%2fimages%2fjs.png&ehk=pUJFbIrez8mBppA0B%2bJb%2fYuJafauFk9%2fWc%2b824tuVLA%3d&risl=&pid=ImgRaw&r=0" height="45" width="65">
-<img src="https://25st4y48fagw1panvd24jq2y-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/php-square.png" height="60" width="75">
+<img src="https://th.bing.com/th/id/OIP.wpwyCVtpdqa1cjoY0APj4wAAAA?pid=ImgDet&w=287&h=143&rs=1" height="45" width="110">
+<img src="https://th.bing.com/th/id/R.90e035baa6ad7216b6accd29ba5268cf?rik=DrqHcZwHB22nmg&riu=http%3a%2f%2fasieratienza.com%2fimages%2fjs.png&ehk=pUJFbIrez8mBppA0B%2bJb%2fYuJafauFk9%2fWc%2b824tuVLA%3d&risl=&pid=ImgRaw&r=0" height="45" width="55">
+
 <img src="https://th.bing.com/th/id/OIP.qL4S_en8qikR8OyWFqIvhAHaEh?pid=ImgDet&rs=1" height="45" width="85">
+ <img src="https://25st4y48fagw1panvd24jq2y-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/php-square.png" height="60" width="75">
+ <img src= "https://th.bing.com/th/id/R.8fbea12aad8a04ff7e63e37b29c9cce8?rik=4WcDnNQ%2bp%2bTKfA&riu=http%3a%2f%2ftecadmin.net%2fwp-content%2fuploads%2f2014%2f12%2flaravel-logo.png&ehk=AfdM1ClvDRvcKxXu6cKGOj3JkxiSkT7j0q6swa185y0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"  height="50" width="55">
  <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height="55" width="85">
  <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png"  height="45" width="55">
- <img src= "https://www.revomed.co.th/wp-content/uploads/2021/01/Figma-e1611285920705.jpg"  height="45" width="38">
+  
+ <img src="https://th.bing.com/th/id/R.2b3975f88966e9a6656b6161a8838856?rik=zJoEjAb2we9vbQ&pid=ImgRaw&r=0"  height="40" width="50">
+ <img src= "https://e7.pngegg.com/pngimages/460/955/png-clipart-node-js-javascript-npm-web-server-source-code-laravel-angle-text-thumbnail.png"  height="40" width="35">
+ <img src= "https://www.revomed.co.th/wp-content/uploads/2021/01/Figma-e1611285920705.jpg"  height="40" width="30">
  <img src= "https://th.bing.com/th/id/OIP._Dif-ZNG4qVv38iap-TPgwHaHa?pid=ImgDet&rs=1"  height="45" width="40">
- <img src= "https://allmatics.net/wp-content/uploads/2017/07/JavaScript-Department-1.jpg"  height="45" width="40">
- <img src= "https://th.bing.com/th/id/R.8fbea12aad8a04ff7e63e37b29c9cce8?rik=4WcDnNQ%2bp%2bTKfA&riu=http%3a%2f%2ftecadmin.net%2fwp-content%2fuploads%2f2014%2f12%2flaravel-logo.png&ehk=AfdM1ClvDRvcKxXu6cKGOj3JkxiSkT7j0q6swa185y0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"  height="50" width="55">
- <img src="https://th.bing.com/th/id/R.2b3975f88966e9a6656b6161a8838856?rik=zJoEjAb2we9vbQ&pid=ImgRaw&r=0"  height="45" width="55">
+ 
+
  <img src="https://suavesol.net/wp-content/uploads/2019/11/ui-ux-dsign-1184x740.png"  height="45" width="55">
- <img src="https://www.clipartkey.com/mpngs/m/229-2294024_clip-art-blue-agile-icon.png"  height="45" width="55">
- <img src="https://th.bing.com/th/id/R.467c82e267a52d0698dc64a808d28e9c?rik=S0VNwAoZ0y95qA&pid=ImgRaw&r=0"  height="45" width="55">
- <img src="https://th.bing.com/th/id/OIP.HdIm8ibJatTKLj5ozFHlhgHaHa?pid=ImgDet&rs=1"  height="45" width="45">
- <img src="https://th.bing.com/th/id/OIP.R94MOI9qTg0gg52-2NLFMQHaGA?pid=ImgDet&rs=1"  height="45" width="50">
- <img src="https://www.sistemaimpulsa.com/blog/wp-content/uploads/2020/02/incrementar-tus-ingresos-con-Canva.png"  height="45" width="80">
- <img src="https://daffyta.github.io/assets/img/icono/git.png"  height="45" width="50">
- <img src="https://th.bing.com/th/id/OIP.4ew80M_QaQTO1CXhSGtBCAHaHa?pid=ImgDet&w=520&h=520&rs=1"  height="40" width="40">
+
  
 </div>
 
