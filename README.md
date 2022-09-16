@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
  Las enseñanzas del Bootcamp se han dividido en dos partes: frontend y backend. En el front hemos manejado HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, estamos haciendo proyectos con PHP y Java, en Laravel y Springboot. También manejamos MySQL. 
  Hemos aprendido también Scrum, Clean Code y Refactoring. Y utilizamos plataformas como Jira, git Kraken, Trello, Canva y Figma.
- También hacemos proyectos individuales, ahora mismo estoy realizando un proyecto personal con Vue en el front y Java en el back que desarrollo en paralelo a otro grupal de PHP-Laravel.
+ También hacemos proyectos individuales, ahora mismo estoy realizando un proyecto personal con Vue en el front y Java en el back que desarrollo en paralelo a otro grupal de PHP-Laravel-VUE.
  
  Trabajamos en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en una Hackaton a nivel nacional, lo cual fue un proceso muy intenso que pude aprovechar para reforzar conceptos vistos en este Bootcamp.
  
