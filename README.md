@@ -23,11 +23,11 @@ Here are some ideas to get you started:
  Hola, soy Patricia. Actualmente estoy participando activamente en un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, y adquiriendo un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodologías Ágiles. 
  El rol con el que más me identifico, es el de una persona trabajadora, organizada, positiva, y gran amante del código.
  
- Las enseñanzas del Bootcamp se han dividido en dos partes: frontend y backend. En el front hemos manejado HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, estamos haciendo proyectos con PHP y Java, en Laravel y Springboot. También manejamos MySQL. 
+ Las enseñanzas del Bootcamp se han dividido en dos partes: frontend y backend. En el front hemos manejado HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, estamos haciendo proyectos con PHP y Java, en Laravel y Spring-Springboot. También manejamos MySQL. 
  Hemos aprendido también Scrum, Clean Code y Refactoring. Y utilizamos plataformas como Jira, git Kraken, Trello, Canva y Figma.
- También hacemos proyectos individuales, ahora mismo estoy realizando un proyecto personal con Vue en el front y Java en el back que desarrollo en paralelo a otro grupal de PHP-Laravel-VUE.
+ También he realizado un projecto individual utilizando Java y Vue3, y otro proyecto grupal con una empresa real que nos encargó que hiciéramos un escape room, para ello utilizamos laravel-PHP y Vue3. 
  
- Trabajamos en un ambiente que recrea el ámbito laboral al que nos enfrentaremos cuando terminemos en octubre con un perfil Junior. Incluso hemos participado en una Hackaton a nivel nacional, lo cual fue un proceso muy intenso que pude aprovechar para reforzar conceptos vistos en este Bootcamp.
+ Durante esos 6 meses, trabajamos recreando un ambiente laboral real que tiene cualquier empresa tecnológica. Incluso hemos participado en una Hackaton a nivel nacional, lo cual fue un proceso muy intenso que pude aprovechar para reforzar conceptos vistos en este Bootcamp.
  
  Algo a destacar sobre mí es el manejo de idiomas, hablo, leo y escribo inglés con buen nivel, y me defiendo con el francés.
  
