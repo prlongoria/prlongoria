@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <div align="left"><h3 font-weight="bold">"Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo"</h3></div>
 <div align="center"><img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1"></div>
 
- Hola, soy Patricia. Recientemente he finalizado un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, donde adquirí un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodologías Ágiles. 
+ Hola, soy Patricia y actualmente estoy trabajando en Capgemini donde estamos ahora mismo adquiriendo más formación en Java, Spring, Spring Boot.
+ 
+ Recientemente he finalizado un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, donde adquirí un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodologías Ágiles. 
  El rol con el que más me identifico, es el de una persona trabajadora, organizada, positiva, y gran amante del código.
  
  Las enseñanzas del Bootcamp se han dividido en dos partes: frontend y backend. En el front hemos manejado HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, hicimos proyectos con PHP y Java, en Laravel y Spring-Springboot. También manejamos MySQL. 
