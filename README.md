@@ -3,11 +3,11 @@
 <div align="left"><h3 font-weight="bold">"Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo"</h3></div>
 <div align="center"><img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1"></div>
 
- Hola, soy Patricia y actualmente estoy trabajando en el departamento de Salesforce de Capgemini y tengo la certificación de Salesforce Associate.
+ Hola, soy Patricia, actualmente estoy trabajando en el departamento de Salesforce de Capgemini y tengo la certificación de Salesforce Associate. Y sigo preparandome cada dia para seguir creciendo en SF ya que me ha enganchado totalmente.
  
- Anteriormente hicimos un Bootcamp de 166 horas de Java Spring, Maven, Git, Junit, Springboot, Spring MVC, Spring DATA, WS, Spring REST, Javascript, Bootstrap y Angular
+ Anteriormente, tambien en Capgemini, hice un Bootcamp de 170 horas de Java Spring, Maven, Git, Junit, Springboot, Spring MVC, Spring DATA, WS, Spring REST, Javascript, Bootstrap y Angular
  
- El año pasado hice un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, donde adquirí un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodologías Ágiles. 
+ En 2022 me adentré en el mundo de desarrollo de software haciendo un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, donde adquirí un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodologías Ágiles. 
  El rol con el que más me identifico, es el de una persona trabajadora, organizada, positiva, y gran amante del código.
  
  Las enseñanzas del Bootcamp de Factoría F5 se dividieron en dos partes: frontend y backend. En el front manejamos HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, hicimos proyectos con PHP y Java, en Laravel y Spring-Springboot. También manejamos MySQL. 
