@@ -3,7 +3,7 @@
 <div align="left"><h3 font-weight="bold">"Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo"</h3></div>
 <div align="center"><img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1"></div>
 
- Hola, soy Patricia, actualmente estoy trabajando en el departamento de Salesforce Marketing Cloud de Capgemini y tengo la certificación de Salesforce Associate. Cada dia continúo preparándome para seguir creciendo en SF ya que me ha enganchado totalmente.
+ Hola, soy Patricia, actualmente estoy trabajando en el departamento de Salesforce en Capgemini y de momento he obtenido las certificaciones de Salesforce Associate y SFMC Email Specialist. Cada día continúo preparándome para seguir creciendo en SF ya que me ha enganchado totalmente.
  
  Anteriormente, tambien en Capgemini, hice un Bootcamp de 170 horas de Java Spring, Maven, Git, Junit, Springboot, Spring MVC, Spring DATA, WS, Spring REST, Javascript, Bootstrap y Angular
  
