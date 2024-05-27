@@ -3,23 +3,19 @@
 <div align="left"><h3 font-weight="bold">"Si quieres ir rápido trabaja solo, pero si quieres llegar lejos, trabaja en equipo"</h3></div>
 <div align="center"><img src="https://sdk.bitmoji.com/render/panel/3184fac1-45a0-4deb-ab70-35c81b789238-79aea040-bfc4-4fa8-9e93-1b8e146978a1-v1.png?transparent=1&palette=1"></div>
 
- Hola, soy Patricia, actualmente estoy trabajando en el departamento de Salesforce en Capgemini y de momento he obtenido las certificaciones de Salesforce Associate y SFMC Email Specialist. Cada día continúo preparándome para seguir creciendo en SF ya que me ha enganchado totalmente.
- 
- Anteriormente, tambien en Capgemini, hice un Bootcamp de 170 horas de Java Spring, Maven, Git, Junit, Springboot, Spring MVC, Spring DATA, WS, Spring REST, Javascript, Bootstrap y Angular
- 
- En 2022 me adentré en el mundo de desarrollo de software haciendo un Bootcamp fullstack de 850 horas, organizado por la Escuela de Factoría F5, donde adquirí un aprendizaje constante a través del trabajo en equipo, realizando proyectos reales con metodologías Ágiles. 
- El rol con el que más me identifico, es el de una persona trabajadora, organizada, positiva, y gran amante del código.
- 
- Las enseñanzas del Bootcamp de Factoría F5 se dividieron en dos partes: frontend y backend. En el front manejamos HTML, CSS, Bootstrap, Javascript, NodeJS y Vue3-Pinia. En la parte del back, hicimos proyectos con PHP y Java, en Laravel y Spring-Springboot. También manejamos MySQL. 
- Hemos aprendido también Scrum, Clean Code y Refactoring. Y utilizamos plataformas como Jira, git Kraken, Trello, Canva y Figma.
- También he realizado un projecto individual utilizando Java y Vue3, y otro proyecto grupal con una empresa real que nos encargó que hiciéramos un escape room, para ello utilizamos laravel-PHP y Vue3. 
- 
- Durante esos 6 meses, trabajamos recreando un ambiente laboral real que tiene cualquier empresa tecnológica. Incluso hemos participado en una Hackaton a nivel nacional, lo cual fue un proceso muy intenso que pude aprovechar para reforzar conceptos vistos en este Bootcamp.
- 
- Algo a destacar sobre mí es el manejo de idiomas, hablo, leo y escribo inglés con buen nivel(C1), y me defiendo con el francés.
- 
- Soy una persona muy curiosa e inquieta, por eso me encanta la programación, es infinita, en constante avance y con multitud de posibilidades.
- Me gusta mucho meditar y hacer yoga y kung fu, me ayudan a mantener la cabeza fría y centrada, además de darme calma en momentos de tensión. Me ayuda a ver las cosas con claridad y encontrar soluciones rápidas y efectivas.
+Soy una persona inquieta y curiosa a la que siempre le gusta estar aprendiendo y crecer tanto profesional como personalmente.
+
+Soy disciplinada, organizada y positiva.
+
+He sido jefa de equipo en diversas empresas, lo cual me ha ayudado a saber trabajar en equipo, tanto como subordinada como jefa.
+
+Participé en un Bootcamp full stack developer donde adquirí soft skills y conocimientos del sector tecnológico, y también realicé otro bootcamp de 170 horas de Java ya dentro de Capgemini.
+
+Actualmente soy parte de los equipos de Salesforce Marketing Cloud y Core en Capgemini, en los que llevo trabajando desde enero de 2023.
+
+Dentro del equipo de SF Marketing Cloud realicé los cursos de Data Cloud, Personalization y Loyalty.
+
+También tengo buen nivel de inglés (B2) y varias certificaciones de Salesforce y Scrum Master.
  
 <div>
  <img src="https://img2.freepng.es/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" height="30" width="30" >
